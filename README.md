@@ -1,5 +1,8 @@
 [![ipwo](https://raw.githubusercontent.com/0xAllenChen/img_repository/master/357df7f63b9cc78e537d9cbb6f78bf19.png)](https://www.ipwo.net/?ref=githubchenailun&code=UVAP38UW9)
-[感谢ipwo对本项目的赞助支持，爬虫防封问题戳本信息注册可得充裕高匿ip使用，可有效保护账号。](https://www.ipwo.net/?ref=githubchenailun&code=UVAP38UW9)
+> 爬虫总遇 403、IP 秒封？IPWO爬虫住宅代理 9000 万真实住宅 IP，黑名单率低于 3%，模拟真人访问，成功率 99%+
+
+### IPWO爬虫代理资源为采集、跨境与测试项目提供支持(免费试用，流量不过期，爬虫使用保护账号不封号)学习者务必遵循法律！
+[IPWO访问入口](https://www.ipwo.net/?ref=githubchenailun&code=UVAP38UW9)
 # 爬虫逆向
 
 
